@@ -1,0 +1,16 @@
+{
+  "name": "gulp-posthtml-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-posthtml": "^3.0.2"
+  }
+}
