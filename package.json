@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-posthtml": "^3.0.2",
-    "posthtml-email-remove-unused-css": "^1.5.0"
+    "gulp": "3.9.1",
+    "gulp-posthtml": "3.0.2",
+    "posthtml-email-remove-unused-css": "1.5.0"
   },
   "dependencies": {}
 }
